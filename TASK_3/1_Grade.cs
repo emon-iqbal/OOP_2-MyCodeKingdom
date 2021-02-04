@@ -20,7 +20,7 @@ namespace TASK_3
             string GRADE;
             if (M < 0)
             {
-                GRADE = "SCORES ARE iNVALiD [[MiNiMUM SCORE LiMiT   =   0]]";
+                GRADE =  (   " ** iNVALiD [[MiNiMUM SCORE LiMiT   =   0]]" );
             }
             else if ( (M >= 94) && (M <= 100) )
             {
@@ -48,9 +48,9 @@ namespace TASK_3
             }
             else
             {
-               GRADE = "SCORES ARE iNVALiD [[MAXiMUM SCORE LiMiT    =   100]]";
+                GRADE = ( "        ** iNVALiD [[MAXiMUM SCORE LiMiT    =   100]]" );
             }
-            
+
             Console.WriteLine(Environment.NewLine + "       >>>ULTIMATE GRADE IS :>>  " + GRADE );
 
             Console.ReadLine();

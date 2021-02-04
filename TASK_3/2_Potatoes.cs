@@ -65,7 +65,7 @@ namespace TASK_3
 
             Console.WriteLine(Environment.NewLine);
             Console.WriteLine(Environment.NewLine + "   ------------------------------------------------------------------------------------------------ ");
-            Console.WriteLine(Environment.NewLine + " >>>>    U L T I M A T E  C O S T  O F  P U R C H A S E D  P O T A TO E S  =  TK.       " + COST);
+            Console.WriteLine(Environment.NewLine + " >>>>    U L T I M A T E  C O S T  O F  P U R C H A S E D  P O T A T O E S  =  TK.       " + COST);
             Console.WriteLine(Environment.NewLine + "   ------------------------------------------------------------------------------------------------ ");
             
             Console.ReadLine();

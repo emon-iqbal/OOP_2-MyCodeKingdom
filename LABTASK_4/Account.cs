@@ -70,6 +70,7 @@ namespace ACCOUNT
                 Console.WriteLine("  --------------------------------------------------------------------------------------- ");
                 
             }
+            
             else
             {
                 Console.WriteLine(Environment.NewLine);
@@ -125,6 +126,7 @@ namespace ACCOUNT
                 Console.WriteLine("  _________________________________________________________________________________________________________ ");
 
             }
+            
             else
             {
                 Console.WriteLine(Environment.NewLine);
